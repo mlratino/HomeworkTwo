@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #b4b7fc;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(40, 189, 238);
+  color: black;
+}
+
+.topnav a.active {
+  background-color: rgb(20, 111, 240);
+  color: white;
+}
+</style>
+
+</head>
+<body>
